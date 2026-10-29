@@ -1,1 +1,1 @@
-Contenido inicial para conflicto
+Contenido modificado en la rama segunda
